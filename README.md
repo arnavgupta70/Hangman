@@ -9,4 +9,12 @@ This application, despite being a game enables the user to have fun and learn at
 name will be revealed. This now becomes a puzzle, where the user must use problem-solving and critical thinking to guess other letters (think about common pairings of a letter).
 
 Check out the Gameplay here: 
+<div align="center">
+      <a href="https://youtu.be/EMXC8wZ5Zi8">
+     <img 
+      src="https://img.youtube.com/vi/EMXC8wZ5Zi8/0.jpg" 
+      alt="Check out the Gameplay here:" 
+      style="width:100%;">
+      </a>
+    </div>
 [![Hangman Demo](https://img.youtube.com/vi/EMXC8wZ5Zi8/0.jpg)](https://youtu.be/EMXC8wZ5Zi8)
