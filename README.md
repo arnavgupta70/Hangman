@@ -9,4 +9,4 @@ This application, despite being a game enables the user to have fun and learn at
 name will be revealed. This now becomes a puzzle, where the user must use problem-solving and critical thinking to guess other letters (think about common pairings of a letter).
 
 # Check out the Gameplay here: 
-[<img src="https://www.youtube.com/watch?v=EMXC8wZ5Zi8&feature=youtu.be" width="50%">](https://www.youtube.com/watch?v=EMXC8wZ5Zi8&feature=youtu.be)
+[<img src="https://imgur.com/a/zmkGPKx" width="50%">](https://www.youtube.com/watch?v=EMXC8wZ5Zi8&feature=youtu.be)
