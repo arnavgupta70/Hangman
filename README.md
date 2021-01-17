@@ -17,4 +17,3 @@ Check out the Gameplay here:
       style="width:100%;">
       </a>
     </div>
-[![Hangman Demo](https://img.youtube.com/vi/EMXC8wZ5Zi8/0.jpg)](https://youtu.be/EMXC8wZ5Zi8)
